@@ -1,0 +1,70 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: spark
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRole
+metadata:
+  name: spark-cluster-role
+rules:
+- apiGroups: [""] # "" indicates the core API group
+  resources: ["pods"]
+  verbs: ["get", "watch", "list", "create", "delete"]
+- apiGroups: [""] # "" indicates the core API group
+  resources: ["services"]
+  verbs: ["get", "create", "delete"]
+- apiGroups: [""] # "" indicates the core API group
+  resources: ["configmaps"]
+  verbs: ["get", "create", "delete"]
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata:
+  name: spark-cluster-role-binding
+subjects:
+- kind: ServiceAccount
+  name: spark
+  namespace: default
+roleRef:
+  kind: ClusterRole
+  name: spark-cluster-role
+  apiGroup: rbac.authorization.k8s.io
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: workforce-analytics
+spec:
+  serviceAccountName: spark
+  containers:
+  - name: workforce-analytics
+    image: 10.101.47.14:5000/spark:latest
+    imagePullPolicy: Always
+    args:
+    - /opt/spark/bin/spark-submit
+    - --master
+    - k8s://https://$(KUBERNETES_PORT_443_TCP_ADDR):$(KUBERNETES_PORT_443_TCP_PORT)
+    - --deploy-mode
+    - cluster
+    - --conf
+    - spark.kubernetes.container.image=10.101.47.14:5000/spark
+    - --conf
+    - spark.kubernetes.authenticate.driver.serviceAccountName=spark
+    - --jars
+    - local:///opt/wf-jars/db2jcc.jar,local:///opt/wf-jars/stocator-1.0.24-IBM-SDK-jar-with-dependencies.jar
+    - --class
+    - "Assignment"
+    - local:///opt/wf-jars/workforce-analytics_2.11-1.0.jar
+    env:
+    - name: SPARK_HOME
+      value: /opt/spark
+    resources: {}
+    volumeMounts:
+    - mountPath: /opt/wf-jars
+      name: wf-jars
+  restartPolicy: OnFailure
+  volumes:
+  - name: wf-jars
+    hostPath:
+        path: /hosthome/Eclipse/workforce-analytics/jars

@@ -1,0 +1,1016 @@
+Name,Gender,Department,Salary,Loc,Rating
+Ches Bonnell,Male,Sales,"$88,050.00",Bellevue,Very Good
+Garwin Peasegood,Female,Engineering,"$68,220.00",Bellevue,Good
+Sidoney Yitzhok,Female,NULL,"$118,440.00",Wellington,Not Rated
+Saunders Blumson,"",Legal,"$56,370.00",Los Angeles,Very Good
+Gardy Grigorey,Female,Support,"$107,090.00",Los Angeles,Poor
+Marlie Charsley,Male,Support,"$108,450.00",Wellington,Poor
+Adella Hartshorne,Female,Human Resources,"$41,160.00",Bellevue,Average
+Rasla Fisby,Male,Legal,"$109,000.00",Wellington,Very Good
+Rayna Gamlin,"",Services,"",Wellington,Average
+Willi Vasey,Female,Support,"$43,020.00",Los Angeles,Average
+Selby Hacker,Male,Business Development,"$37,800.00",Bellevue,Average
+Stefa Eggleston,Male,Sales,"$88,380.00",Los Angeles,Average
+Phylys Benitez,Female,Product Management,"$84,420.00",Wellington,Average
+Ronnie Sinyard,Female,Legal,"$101,760.00",Wellington,Good
+Axel Grigaut,Male,Sales,"$110,780.00",Wellington,Poor
+Timmi Durran,Male,Human Resources,"$68,430.00",Wellington,Good
+Minna Showler,Female,Training,"$105,370.00",Los Angeles,Good
+Dyanne Strafen,Male,Engineering,"$113,800.00",Bellevue,Average
+Dorolice Farry,Female,Sales,"$76,300.00",Los Angeles,Average
+Elliot Tuplin,Female,Sales,"$44,530.00",Los Angeles,Average
+Lion Adcock,Female,Legal,"$63,710.00",Bellevue,Average
+Vic Radolf,Female,Product Management,"$62,780.00",Wellington,Very Good
+Tiffani Mecozzi,Female,Training,"$119,750.00",Bellevue,Average
+Jeane Bermingham,Male,Research and Development,"$116,980.00",Los Angeles,Very Poor
+Gavan Puttan,Male,Accounting,"$35,940.00",Wellington,Good
+Danielle Johananoff,Male,Services,"$109,040.00",Bellevue,Average
+Rafaelita Blaksland,Female,Services,"$109,160.00",Los Angeles,Good
+Brit Hamnett,Male,Human Resources,"$75,540.00",Wellington,Average
+Mable Phythian,Female,Engineering,"$30,000.00",Los Angeles,Average
+Joella Maevela,Female,Sales,"$76,210.00",Wellington,Good
+Mollie Hanway,Male,NULL,"$112,650.00",Bellevue,Average
+Obidiah Westrope,Male,Legal,"$108,460.00",Los Angeles,Good
+Murry Dryburgh,Male,Research and Development,"$69,070.00",Los Angeles,Poor
+Abbie Tann,Female,Business Development,"$116,520.00",Bellevue,Good
+Aluin Churly,Female,Research and Development,"$96,560.00",Los Angeles,Not Rated
+Bennett Gimenez,Female,Human Resources,"$36,460.00",Wellington,Good
+Isa Mogie,Female,Training,"$50,950.00",Los Angeles,Good
+Yves Clunie,Female,Marketing,"$75,440.00",Bellevue,Average
+Iain Wiburn,Female,Sales,"$84,760.00",Los Angeles,Average
+Nonah Bissell,Male,Engineering,"$82,240.00",Los Angeles,Poor
+Mendel Gentsch,Male,Human Resources,"$28,330.00",Bellevue,Very Poor
+Alfred Peplay,Female,Human Resources,"$60,580.00",Bellevue,Very Good
+Adelina Cheeseman,Male,Support,"$45,510.00",Los Angeles,Very Good
+Minetta Parsons,Female,Human Resources,"$110,770.00",Wellington,Good
+Hobard Benninger,Female,Product Management,"$86,920.00",Wellington,Average
+Fancy Bonin,"",Training,"$84,680.00",Bellevue,Good
+Laura Gomar,Female,Research and Development,"$36,860.00",Bellevue,Poor
+Beatrix Schoales,"",Sales,"$114,010.00",Los Angeles,Average
+Clemmie Hebblewaite,"",Services,"$54,130.00",Los Angeles,Very Poor
+Issie Crippes,Female,Product Management,"$81,720.00",Wellington,Very Good
+Vasily MacVanamy,Male,Human Resources,"$84,470.00",Bellevue,Average
+Aile Strathearn,Female,Marketing,"$114,600.00",Bellevue,Good
+Shellysheldon Mahady,Male,Training,"$114,690.00",Bellevue,Very Poor
+Laney Renne,Male,Engineering,"$57,350.00",Los Angeles,Good
+Trace Sidsaff,Female,Accounting,"$51,200.00",Los Angeles,Poor
+Kelly Corkitt,Female,Human Resources,"$85,260.00",Bellevue,Poor
+Karlen McCaffrey,Female,Services,"$71,230.00",Los Angeles,Very Poor
+Jordain Sparkwill,Female,Product Management,"$107,660.00",Wellington,Good
+Billie Croucher,Female,Engineering,"$75,230.00",Los Angeles,Poor
+Izzy Brisco,Female,Marketing,"$108,080.00",Wellington,Average
+Ignacius Losel,Male,Legal,"$28,480.00",Los Angeles,Good
+Peggi Bullas,Male,Support,"$56,620.00",Wellington,Average
+Bab Bridger,Male,NULL,"$87,900.00",Los Angeles,Average
+Dyna Doucette,Male,Sales,"$103,550.00",Wellington,Average
+Marcellina Kitt,Female,Business Development,"$78,500.00",Los Angeles,Very Good
+Shela Goade,Male,Legal,"$93,930.00",Los Angeles,Good
+Gwenneth Fealey,Female,NULL,"$114,770.00",Wellington,Average
+Kerrie Cockshutt,Male,NULL,"$73,530.00",Bellevue,Average
+Christopher Kezourec,Male,Training,"$55,310.00",Los Angeles,Very Poor
+Larry Pioch,Male,Research and Development,"$49,670.00",Wellington,Poor
+Bethanne Shoppee,Female,Support,"",Wellington,Good
+Reidar Skechley,Male,Product Management,"$40,770.00",Wellington,Average
+Bari Toffano,Male,Product Management,"$106,780.00",Los Angeles,Poor
+Robinia Scholling,Female,Human Resources,"$100,730.00",Los Angeles,Average
+Grover Cooksey,"",Services,"$74,620.00",Los Angeles,Poor
+Layton Crayden,Male,Product Management,"$40,450.00",Los Angeles,Average
+Marlowe Constantine,Male,Services,"$60,560.00",Wellington,Average
+Rhianna McLeoid,Male,Legal,"$114,900.00",Los Angeles,Average
+Alida Welman,Male,Human Resources,"$69,860.00",Los Angeles,Average
+Jacobo Lasham,Female,Services,"$51,320.00",Los Angeles,Very Poor
+Rhody Odhams,Male,Training,"$103,600.00",Bellevue,Good
+Zach Polon,Male,Marketing,"$53,540.00",Los Angeles,Poor
+Taddeo Jovis,Female,Sales,"$98,740.00",Wellington,Poor
+Katerine Lohden,Male,Support,"$115,090.00",Los Angeles,Average
+Jakob Philippe,Male,Marketing,"$51,910.00",Los Angeles,Good
+Monroe Hendrickx,Male,Accounting,"$34,080.00",Los Angeles,Not Rated
+Fred Dudeney,Male,Services,"$88,690.00",Bellevue,Poor
+Brose MacCorkell,Female,Human Resources,"$35,940.00",Los Angeles,Average
+Madelene Upcott,Male,Legal,"$109,190.00",Wellington,Average
+Cara Havers,Male,Marketing,"$89,610.00",Bellevue,Good
+Gisella Mewe,Female,Support,"$109,760.00",Wellington,Good
+Daryn Kniveton,Female,Marketing,"$108,390.00",Bellevue,Poor
+Stormy Church,Male,Research and Development,"$29,880.00",Bellevue,Very Poor
+Cull Nannetti,Male,Support,"$68,090.00",Los Angeles,Average
+Shirlene Argo,Female,Services,"$87,210.00",Wellington,Not Rated
+Konstanze Wyleman,Male,Engineering,"$90,800.00",Wellington,Average
+Vernor Atyea,Female,Training,"$102,930.00",Los Angeles,Good
+Pedro St. Hill,Male,Engineering,"",Bellevue,Average
+Tris Hynard,Female,Product Management,"$29,080.00",Los Angeles,Average
+Calvin O'Carroll,Female,Research and Development,"$44,450.00",Wellington,Very Good
+Jessica Burditt,Female,Services,"$97,120.00",Los Angeles,Average
+Aurelea Devitt,Male,Support,"$58,840.00",Wellington,Average
+Meryl Waggatt,Female,Business Development,"$77,060.00",Los Angeles,Good
+Corri Ellcome,Female,NULL,"$81,180.00",Los Angeles,Average
+Evyn Fyrth,Male,Support,"$90,080.00",Los Angeles,Average
+Car Laden,Male,Product Management,"",Bellevue,Average
+Sarene Creeboe,Male,Product Management,"$35,830.00",Los Angeles,Average
+Steven Labat,Male,Legal,"$37,110.00",Los Angeles,Average
+Lindy Guillet,Male,Training,"$112,780.00",Wellington,Poor
+Loren Rettie,Female,Engineering,"$96,000.00",Los Angeles,Average
+Daron Biaggioli,Female,Product Management,"$112,550.00",Los Angeles,Average
+Georg Dinnage,Male,Training,"$88,330.00",Los Angeles,Poor
+Ewart Hovel,Female,Training,"$116,770.00",Bellevue,Good
+Archaimbaud Pinchin,Male,Marketing,"$40,270.00",Los Angeles,Average
+Mile Swindley,"",Business Development,"",Los Angeles,Average
+Garwood Penhale,Female,Business Development,"$96,640.00",Los Angeles,Very Good
+Valentia Etteridge,Female,Business Development,"$118,100.00",Bellevue,Average
+Courtney Given,Male,Engineering,"$43,600.00",Wellington,Average
+Claudetta Petherick,Female,Legal,"$54,520.00",Wellington,Poor
+Eberto William,Female,Research and Development,"$57,750.00",Wellington,Average
+Bernie Gorges,Female,Training,"$99,970.00",Bellevue,Average
+Myrle Prandoni,Male,Sales,"$62,200.00",Los Angeles,Very Good
+Josepha Keningham,Male,Human Resources,"$42,990.00",Los Angeles,Average
+Garrick Hadwick,Male,Support,"$117,810.00",Wellington,Average
+Nessy Baskwell,Male,Services,"$58,130.00",Los Angeles,Average
+Rosco Cogley,Male,Services,"$86,840.00",Wellington,Average
+Tulley Chiddy,Female,Accounting,"",Wellington,Average
+Camille Baldinotti,Female,Product Management,"$41,700.00",Bellevue,Good
+Dave Lacoste,Male,Legal,"",Wellington,Average
+Crawford Scad,Male,Human Resources,"$72,880.00",Los Angeles,Average
+Larry Pioch,Male,Research and Development,"$49,670.00",Wellington,Good
+Judie Di Bernardo,Male,Accounting,"$117,150.00",Wellington,Average
+Kakalina Stanaway,Male,Human Resources,"$97,020.00",Los Angeles,Poor
+Max Shower,Male,Training,"$67,510.00",Los Angeles,Not Rated
+Juditha Hatherleigh,Female,Human Resources,"$34,830.00",Los Angeles,Average
+Lanny Beaney,Male,Legal,"$38,730.00",Wellington,Average
+Jim Perrygo,Male,Services,"$96,790.00",Bellevue,Good
+Shannen Crittal,Female,Engineering,"$68,040.00",Los Angeles,Good
+Katya Hundy,Male,Business Development,"$88,510.00",Bellevue,Average
+Cordelia Djuricic,Female,Human Resources,"$65,350.00",Wellington,Very Poor
+Emory Whitten,Female,Product Management,"$52,000.00",Bellevue,Not Rated
+Philis Rowlstone,Female,Human Resources,"$85,740.00",Bellevue,Average
+Fedora Graffin,Male,Research and Development,"$92,500.00",Bellevue,Good
+Marjie Bamford,Male,Sales,"$80,770.00",Wellington,Very Good
+Doe Clubley,Female,Product Management,"$67,820.00",Los Angeles,Not Rated
+Adella Hartshorne,Female,Human Resources,"$41,160.00",Wellington,Good
+Barney Bonafant,Female,Engineering,"$48,060.00",Wellington,Poor
+Nessi Delves,Male,Training,"$56,830.00",Los Angeles,Very Good
+Addi Studdeard,Female,Product Management,"$72,500.00",Bellevue,Very Poor
+Benoite Ackermann,Female,Services,"$57,080.00",Wellington,Average
+Sharity Brands,Male,Product Management,"$104,080.00",Wellington,Very Poor
+Cassondra Giottini,Male,Marketing,"",Los Angeles,Not Rated
+Beryl Burnsyde,Male,Legal,"$29,770.00",Bellevue,Good
+Ollie Schirak,Male,Legal,"$48,690.00",Bellevue,Average
+Amaleta Baltzar,"",Research and Development,"$70,080.00",Bellevue,Very Poor
+Katya Hundy,Male,Business Development,"$88,510.00",Los Angeles,Poor
+Wyn Treadger,Female,Business Development,"$69,190.00",Wellington,Average
+Orton Livick,Male,Services,"$37,920.00",Wellington,Average
+Haven Belward,Male,Accounting,"$89,120.00",Bellevue,Good
+Yasmeen Klimkiewich,Female,Legal,"$48,140.00",Wellington,Very Good
+Kristofor Powner,Male,Support,"$69,340.00",Bellevue,Average
+Phillipp Nekrews,Male,Human Resources,"$71,330.00",Los Angeles,Very Good
+Delora Arendt,Female,Marketing,"$67,620.00",Wellington,Good
+Archibaldo Denny,Female,Product Management,"$69,740.00",Bellevue,Not Rated
+Jeane Blaszczak,Female,Engineering,"$44,300.00",Bellevue,Good
+Codi Beck,Female,Business Development,"$40,560.00",Bellevue,Poor
+Faunie Sinton,Female,Sales,"$115,230.00",Wellington,Good
+Nicol Giacomi,Female,Training,"$39,750.00",Los Angeles,Average
+Crawford Scad,Male,Human Resources,"$72,880.00",Bellevue,Average
+Vassili Flay,"",Research and Development,"$108,970.00",Wellington,Average
+Halimeda Kuscha,Female,Engineering,"$112,570.00",Wellington,Poor
+Charmaine Howie,Male,Accounting,"$56,810.00",Los Angeles,Poor
+Norrie Grahl,"",Business Development,"$42,950.00",Wellington,Poor
+Ulick Maingot,Female,Services,"$42,820.00",Los Angeles,Average
+Millie Fiveash,Female,Sales,"$57,080.00",Los Angeles,Average
+Kayley Southwell,Female,Marketing,"$101,670.00",Los Angeles,Average
+Reena McKernan,Female,Marketing,"$104,750.00",Los Angeles,Average
+Seward Kubera,Male,Engineering,"$43,330.00",Wellington,Very Good
+Rois Garrigan,Male,Accounting,"$61,430.00",Los Angeles,Poor
+Euell Willoughley,Male,Product Management,"$105,800.00",Los Angeles,Very Good
+Lindi Morfey,Male,Training,"$99,470.00",Los Angeles,Good
+Gradey Litton,Female,Accounting,"$68,890.00",Los Angeles,Good
+Iris Wagg,Female,NULL,"$58,860.00",Los Angeles,Average
+Angeline Christophersen,Female,Engineering,"$86,940.00",Los Angeles,Average
+Farrel Vanyatin,Male,Support,"$118,120.00",Bellevue,Average
+Kienan Epinay,Male,Marketing,"$91,120.00",Los Angeles,Poor
+Aloisia Minto,Male,Research and Development,"$41,420.00",Wellington,Good
+Melisa Knott,Female,Training,"$86,010.00",Los Angeles,Average
+Koral Gerriet,Male,Support,"$30,080.00",Wellington,Average
+Constantino Espley,Male,Accounting,"$96,800.00",Wellington,Average
+Desi Peniman,Female,Legal,"$31,090.00",Bellevue,Average
+Torrance Collier,Female,Training,"$96,140.00",Bellevue,Good
+Ede Mignot,Female,Research and Development,"$98,640.00",Los Angeles,Good
+Marcia Muldrew,Female,Sales,"$71,510.00",Bellevue,Good
+Quintina Kilgannon,Female,Legal,"$86,490.00",Los Angeles,Poor
+Peria Revey,"",Engineering,"$103,240.00",Los Angeles,Good
+Carry Loblie,Female,Sales,"$47,550.00",Los Angeles,Average
+Isadora Maunsell,Male,Sales,"$78,490.00",Wellington,Average
+Tamara Couvet,Female,Engineering,"$61,050.00",Wellington,Average
+Von Boeter,Male,Product Management,"$36,370.00",Bellevue,Good
+Forester Feakins,Male,Business Development,"$47,290.00",Wellington,Average
+Gardy Eckersall,Male,Sales,"$79,650.00",Los Angeles,Good
+Gamaliel Ewins,Male,Product Management,"$119,660.00",Wellington,Average
+Win Arthurs,Female,Support,"$43,200.00",Wellington,Average
+Richy Gray,Female,Product Management,"$89,830.00",Los Angeles,Very Good
+Patricia Dwelly,Male,Accounting,"$91,500.00",Bellevue,Poor
+Erv Balmann,Female,Services,"$29,670.00",Bellevue,Very Good
+Demetria Le Estut,Female,Support,"$75,720.00",Wellington,Very Poor
+Deedee Ciotto,Male,NULL,"$34,830.00",Bellevue,Poor
+Evanne Sheryn,Female,Services,"$81,900.00",Wellington,Average
+Collette Blackaller,Female,Human Resources,"$42,380.00",Los Angeles,Good
+Mariann Mowat,Male,Marketing,"$32,620.00",Los Angeles,Good
+Tabbatha Pickston,Male,Marketing,"$72,040.00",Wellington,Average
+Vlad Strangeway,Male,Product Management,"$77,740.00",Wellington,Good
+Duky Wallace,Male,Business Development,"$102,140.00",Los Angeles,Average
+Townie Dongall,Male,Legal,"$48,630.00",Los Angeles,Not Rated
+Shana Bewly,Female,Legal,"$105,960.00",Wellington,Poor
+Mick Tanguy,Female,Research and Development,"$97,400.00",Bellevue,Good
+Tadio Audritt,"",Human Resources,"$99,450.00",Wellington,Average
+Torey Rosell,Male,Accounting,"$82,670.00",Los Angeles,Average
+Chrisy Kyme,Female,Marketing,"$99,200.00",Bellevue,Very Good
+Morten Dumphy,Male,Legal,"$111,480.00",Los Angeles,Poor
+Issy McLevie,Male,Research and Development,"$84,940.00",Los Angeles,Poor
+Michaeline Capehorn,Female,Support,"$95,340.00",Bellevue,Poor
+Corny Linturn,Female,Product Management,"$47,960.00",Los Angeles,Poor
+Berny Bastide,"",Research and Development,"$56,710.00",Los Angeles,Average
+Aindrea Lenormand,Female,Human Resources,"$71,180.00",Wellington,Good
+Nels McClounan,Male,Training,"",Wellington,Average
+Shanon Deverell,Female,Research and Development,"$78,180.00",Bellevue,Very Good
+Vaughn Carvill,Female,Training,"$84,750.00",Bellevue,Average
+Kora Allebone,Female,Legal,"$98,970.00",Bellevue,Not Rated
+Millard Brakewell,Male,Product Management,"$76,560.00",Los Angeles,Good
+Lizzie Mullally,Male,Support,"",Los Angeles,Average
+Florie Tortoise,Female,Sales,"$35,930.00",Wellington,Average
+Caro Chappel,Female,Sales,"$104,410.00",Los Angeles,Average
+Letisha Carrett,Female,Sales,"$84,600.00",Wellington,Very Poor
+Melva Jickells,Female,Product Management,"$68,800.00",Bellevue,Poor
+Sadie Ratt,Male,NULL,"$38,660.00",Bellevue,Good
+Riccardo Hagan,Male,Human Resources,"$86,560.00",Wellington,Average
+Chauncey Schild,Female,Support,"$107,340.00",Wellington,Average
+Amery Ofer,Female,Legal,"$111,050.00",Wellington,Very Good
+Aube Chadderton,Female,Human Resources,"",Wellington,Average
+Michaella Perri,Male,Training,"$75,320.00",Bellevue,Very Poor
+Mord Cromblehome,Male,Legal,"$57,910.00",Los Angeles,Average
+Major O'Cahsedy,Female,Legal,"$29,490.00",Wellington,Not Rated
+Joana Bartocci,Male,Human Resources,"$52,670.00",Los Angeles,Average
+Sly Cowley,Male,Accounting,"$48,530.00",Wellington,Average
+Augusta Cheetham,Male,Research and Development,"$105,470.00",Wellington,Average
+Diarmid Alman,Female,Training,"$98,200.00",Wellington,Poor
+Gearard Wixon,Male,Human Resources,"$106,190.00",Wellington,Very Good
+Kaye Crocroft,Male,Sales,"$52,610.00",Bellevue,Poor
+Egor Minto,"",Legal,"$63,450.00",Wellington,Good
+Bren Absolon,Male,Accounting,"$74,710.00",Wellington,Good
+Alexine Portail,Female,Sales,"$60,330.00",Bellevue,Average
+Duffie Ibel,Male,Sales,"$61,010.00",Los Angeles,Average
+Gilles Jaquet,Female,Accounting,"$76,300.00",Los Angeles,Not Rated
+Payton Pickervance,Male,Marketing,"$117,020.00",Los Angeles,Average
+Barny Fairweather,Male,Marketing,"$77,130.00",Bellevue,Very Poor
+Margot Royds,Female,Human Resources,"$106,930.00",Bellevue,Average
+Frederik Dartan,Male,Engineering,"$62,090.00",Wellington,Very Good
+Aubert Wedmore.,Female,Marketing,"$61,330.00",Bellevue,Average
+Krystal Lambswood,Female,Training,"$41,600.00",Wellington,Not Rated
+Nanice Boatwright,"",Marketing,"$105,870.00",Wellington,Very Poor
+Northrup Aires,Female,Human Resources,"$118,300.00",Los Angeles,Average
+Janina Wolverson,Female,Research and Development,"$99,680.00",Los Angeles,Good
+Floria Olivia,Female,Sales,"$101,500.00",Wellington,Good
+Andrea Becker,Female,Human Resources,"$46,160.00",Los Angeles,Average
+Louise Lamming,Female,Sales,"$41,930.00",Bellevue,Average
+Renaldo Thomassin,Male,Business Development,"$73,360.00",Los Angeles,Average
+Carmel Pancoust,Female,Services,"$119,550.00",Wellington,Good
+Tatum Hush,Female,Human Resources,"$53,240.00",Wellington,Good
+Aldrich Glenny,Male,Business Development,"$90,880.00",Los Angeles,Average
+Calvin O'Carroll,Female,Research and Development,"$44,450.00",Los Angeles,Very Poor
+Griz Thorington,Male,Support,"$47,670.00",Wellington,Average
+Greta Bagehot,Female,NULL,"$111,420.00",Los Angeles,Not Rated
+Eddy Stolze,Male,Training,"$47,760.00",Los Angeles,Average
+L;urette Bontein,Male,Product Management,"$47,650.00",Wellington,Good
+Cindee Saice,Female,Services,"$103,360.00",Wellington,Very Good
+Erin Androsik,Male,Human Resources,"$48,530.00",Los Angeles,Poor
+Genovera Ghost,Male,Marketing,"$72,160.00",Los Angeles,Average
+Felicdad Heibel,Male,Business Development,"$60,800.00",Wellington,Average
+Jobey Boneham,Female,Services,"$74,010.00",Los Angeles,Average
+Radcliffe Fairpool,Female,Services,"$60,760.00",Bellevue,Very Good
+Gigi Bohling,Male,Engineering,"$74,550.00",Bellevue,Average
+Gare Mattiussi,Male,Engineering,"$32,500.00",Wellington,Poor
+Carlin Demke,Male,Business Development,"$110,040.00",Bellevue,Good
+Wilt Wayvill,Female,Legal,"$99,750.00",Los Angeles,Average
+Ardyce Eacott,Female,Human Resources,"$92,470.00",Los Angeles,Average
+Lane Monteaux,Female,Engineering,"$109,980.00",Los Angeles,Average
+Cathi Gillbee,Male,Legal,"$41,790.00",Wellington,Average
+Ronnie Mesias,Male,Support,"$86,360.00",Los Angeles,Very Poor
+Hali Behnecke,Male,Human Resources,"$65,570.00",Los Angeles,Very Good
+Grady Rochelle,Female,Accounting,"$69,160.00",Los Angeles,Very Good
+Crissie Cordel,Female,Product Management,"$41,570.00",Wellington,Good
+Durand Backhouse,Female,Sales,"$83,400.00",Los Angeles,Poor
+Wendel Malletratt,Male,Business Development,"$67,660.00",Los Angeles,Very Poor
+Shellysheldon Ellerman,Female,Product Management,"$34,470.00",Wellington,Good
+Emmeline Bestwerthick,Female,Sales,"$38,240.00",Los Angeles,Not Rated
+Marmaduke Worssam,Female,Engineering,"$78,380.00",Wellington,Very Poor
+Murial Ickovici,Female,Business Development,"$72,500.00",Bellevue,Average
+Honoria Cootes,Female,Engineering,"$115,640.00",Wellington,Average
+Garvin Delacroix,Male,NULL,"$46,250.00",Wellington,Average
+Merrel Blind,Female,Product Management,"$82,120.00",Bellevue,Average
+Rosamond Fishe,Male,Services,"$108,160.00",Bellevue,Good
+Shelley Moncreiffe,Male,Sales,"$108,360.00",Wellington,Average
+Cecilla Joselevitch,Female,Human Resources,"$77,840.00",Wellington,Poor
+Jolynn Behnecken,Female,Services,"$85,180.00",Los Angeles,Poor
+Adolph McNalley,Male,Business Development,"$85,920.00",Wellington,Poor
+Pippy Roxby,Female,Human Resources,"$106,490.00",Los Angeles,Average
+Jessi Calterone,Male,Legal,"$38,520.00",Bellevue,Poor
+Moore Gligoraci,Female,Training,"$49,530.00",Bellevue,Average
+Mallory Goldsberry,Male,Product Management,"$29,610.00",Wellington,Average
+Nerissa Kavanagh,Male,Training,"$84,170.00",Wellington,Good
+Foss Asquez,Male,Support,"$92,190.00",Wellington,Average
+Ab Lehrian,Male,NULL,"$82,240.00",Bellevue,Average
+Mickey Pybus,Male,Human Resources,"$87,850.00",Los Angeles,Good
+Timmy Brenston,Male,Business Development,"$43,700.00",Bellevue,Average
+Romona Melody,Female,Services,"$88,690.00",Bellevue,Not Rated
+Bendite Bloan,Male,Marketing,"$31,820.00",Bellevue,Average
+Andrea Penfold,Male,Marketing,"$70,230.00",Los Angeles,Average
+Shari Pickston,Male,Legal,"$96,320.00",Wellington,Average
+Dennison Crosswaite,Male,Legal,"$90,700.00",Wellington,Very Poor
+Lucias Minico,Female,Services,"$67,960.00",Los Angeles,Average
+Helaine Lyddy,Male,Services,"$103,110.00",Los Angeles,Good
+Carlene Torry,Female,Engineering,"$59,610.00",Bellevue,Good
+Vere Kulic,Male,Legal,"$66,570.00",Wellington,Poor
+Enrichetta Mowles,Female,Accounting,"$74,390.00",Los Angeles,Average
+Delinda Snozzwell,"",Engineering,"$67,010.00",Wellington,Good
+Cecilio Sprankling,Male,Research and Development,"$109,710.00",Wellington,Average
+Nickolai Artin,Female,Product Management,"$110,910.00",Bellevue,Average
+Beryl Burnsyde,Male,Legal,"$29,770.00",Wellington,Very Good
+Ambrosio Daniely,Female,Support,"$80,060.00",Los Angeles,Very Good
+Simon Kembery,Male,Training,"$99,750.00",Bellevue,Average
+Brig Dewi,Male,Sales,"$108,250.00",Bellevue,Average
+Althea Bronger,Male,Product Management,"$104,340.00",Los Angeles,Average
+Ansley Gounel,Female,Product Management,"$38,440.00",Bellevue,Average
+Daven Smout,Female,Support,"$50,800.00",Wellington,Very Good
+Julietta Culross,Female,NULL,"$44,400.00",Bellevue,Average
+Niall Selesnick,Female,Engineering,"$34,980.00",Bellevue,Good
+Lia Lurner,Female,Support,"$77,260.00",Wellington,Average
+Rodrigo Congdon,Female,Legal,"$117,940.00",Bellevue,Average
+Brendan Edgeller,Female,Legal,"$31,040.00",Wellington,Good
+Revkah Antonacci,Male,NULL,"$109,140.00",Wellington,Average
+Dewey Berthod,Female,NULL,"",Bellevue,Average
+Fidelio Rigmond,Male,Services,"$96,370.00",Bellevue,Not Rated
+Ginger Myott,Female,Services,"$31,170.00",Wellington,Average
+Hatti Vezey,Female,Business Development,"$116,240.00",Los Angeles,Average
+Eilis Pavlasek,Male,Product Management,"$115,190.00",Los Angeles,Very Poor
+Kellsie Waby,Male,Training,"$79,570.00",Los Angeles,Average
+Easter Pyke,Female,Training,"$95,680.00",Los Angeles,Very Good
+Inger Andriveaux,"",Accounting,"$107,110.00",Wellington,Good
+Corina Triner,Male,Sales,"$66,100.00",Los Angeles,Poor
+Loralyn Bruton,Male,Legal,"$39,960.00",Wellington,Average
+Clari Boole,Male,NULL,"$111,850.00",Los Angeles,Average
+Susy Challoner,Female,Business Development,"$29,890.00",Los Angeles,Good
+Jan Morforth,Male,Marketing,"$48,170.00",Wellington,Good
+Cindi Stratten,Female,Services,"$99,200.00",Bellevue,Good
+Marline Wahncke,Male,Legal,"$72,840.00",Wellington,Average
+Violetta Vial,Male,Engineering,"$68,970.00",Los Angeles,Average
+Beatriz Bateson,Male,Marketing,"$89,090.00",Los Angeles,Good
+Angeline Christophersen,Female,Engineering,"$86,940.00",Wellington,Poor
+Evangelia Gowers,Male,Business Development,"$118,450.00",Los Angeles,Very Good
+Fonzie O'Shea,Male,Product Management,"$80,360.00",Los Angeles,Average
+Janene Hairsine,Female,Marketing,"$104,770.00",Wellington,Average
+Linell Compfort,Female,Accounting,"$70,440.00",Wellington,Very Good
+Shaylah Owbrick,Male,Support,"$56,900.00",Wellington,Average
+Erin Androsik,Male,Human Resources,"$48,530.00",Bellevue,Very Good
+Honor Herreros,Male,Research and Development,"",Wellington,Average
+Bethanne Leicester,"",Services,"$72,450.00",Wellington,Not Rated
+Ottilie Vittel,Female,Business Development,"$34,500.00",Wellington,Not Rated
+Barnaby Farnall,"",Engineering,"$118,800.00",Los Angeles,Very Good
+Arlie Newcombe,Male,Accounting,"",Bellevue,Not Rated
+Ashien Gallen,Female,Research and Development,"$115,080.00",Wellington,Very Good
+Stan Tolliday,Female,Sales,"$39,540.00",Bellevue,Average
+Minetta Parsons,Female,Human Resources,"$110,770.00",Wellington,Average
+Abe Gayter,Male,Training,"",Bellevue,Good
+Kissiah Maydway,Male,Accounting,"$106,460.00",Bellevue,Poor
+Charline Husset,Male,Support,"$94,530.00",Wellington,Poor
+Lorain Tew,Female,Business Development,"$71,590.00",Bellevue,Poor
+North Bertomeu,Female,Marketing,"$104,900.00",Wellington,Good
+Martita Beaumont,Male,Engineering,"$81,790.00",Bellevue,Not Rated
+Janaya MacGinlay,Female,Support,"$33,050.00",Wellington,Average
+Cara Havers,Male,Marketing,"$89,610.00",Los Angeles,Very Good
+Ancell Moretto,Female,Product Management,"$96,920.00",Wellington,Very Poor
+Minerva Ricardot,Male,NULL,"$105,470.00",Wellington,Not Rated
+Toby Brodhead,Female,Accounting,"$98,400.00",Bellevue,Average
+Tulley Chiddy,Female,Accounting,"",Bellevue,Very Good
+Niles Mahomet,Female,Human Resources,"$50,020.00",Wellington,Average
+Avigdor Karel,Male,Training,"$71,210.00",Los Angeles,Average
+Luca Wolstenholme,Male,Engineering,"$53,180.00",Los Angeles,Average
+Efrem Mathonnet,Female,Human Resources,"$107,020.00",Los Angeles,Average
+Latisha Jolly,Female,Research and Development,"$58,400.00",Bellevue,Average
+Quentin Ferraresi,Female,Accounting,"$49,000.00",Wellington,Good
+Marco Wooland,Female,Services,"$85,530.00",Los Angeles,Average
+Thekla Lynnett,Male,Training,"$53,950.00",Bellevue,Poor
+Pedro Carluccio,Male,Services,"$41,140.00",Bellevue,Average
+Caron Kolakovic,Male,Accounting,"$49,920.00",Los Angeles,Average
+Debera Gow,Female,Research and Development,"$39,700.00",Bellevue,Average
+Hoyt D'Alesco,Male,Sales,"$53,540.00",Wellington,Poor
+Rudyard Tomsa,Female,Marketing,"$43,900.00",Los Angeles,Good
+Orran Gritskov,Female,Legal,"$72,700.00",Bellevue,Not Rated
+Tyson Prescote,Male,Human Resources,"$29,420.00",Los Angeles,Average
+Berenice Osbaldstone,Female,Legal,"$58,280.00",Wellington,Average
+Jessika Jaycocks,Female,Research and Development,"$67,980.00",Bellevue,Average
+Gabie Millichip,Male,Legal,"$49,760.00",Wellington,Very Good
+Pearla Beteriss,Male,Services,"$69,910.00",Los Angeles,Good
+Harwilll Domotor,Male,Training,"$112,370.00",Los Angeles,Average
+Carolina Blumsom,Male,Legal,"$28,580.00",Wellington,Average
+Ryon Baroch,Male,Accounting,"$43,590.00",Wellington,Poor
+Georg Dinnage,Male,Training,"$88,330.00",Los Angeles,Good
+Marissa Infante,"",Training,"$78,840.00",Bellevue,Average
+Daisie Dahlman,Female,Human Resources,"$61,990.00",Bellevue,Not Rated
+Joli Jodrelle,Male,Services,"$77,100.00",Los Angeles,Good
+Jessica Callcott,Female,Marketing,"$66,020.00",Bellevue,Very Good
+Michail Sicha,Male,Marketing,"",Los Angeles,Very Poor
+Sabina Scorrer,Female,Support,"$70,930.00",Los Angeles,Average
+Bayard Gendricke,Male,Legal,"$40,980.00",Los Angeles,Very Poor
+Esmaria Denecamp,Male,Marketing,"$48,980.00",Los Angeles,Very Poor
+Antone Tolmie,Male,Training,"$110,820.00",Los Angeles,Good
+Tammi Lackham,Female,Business Development,"$61,690.00",Wellington,Good
+Northrop Reid,Female,NULL,"$51,170.00",Los Angeles,Average
+Nananne Gehringer,"",Support,"$104,800.00",Bellevue,Average
+Loren Bentote,Male,Accounting,"$56,280.00",Los Angeles,Poor
+Manolo Gasnell,Male,Engineering,"$88,380.00",Los Angeles,Good
+Wyatt Clinch,Male,Engineering,"$52,590.00",Bellevue,Good
+Giselbert Newlands,Male,Services,"$47,650.00",Wellington,Poor
+Cristal Demangeot,Female,Sales,"$72,350.00",Wellington,Good
+Jaime Dowe,Female,Accounting,"$39,940.00",Bellevue,Average
+Addia Penwright,Male,Research and Development,"$28,130.00",Wellington,Poor
+Ali Roubert,"",Engineering,"$69,460.00",Wellington,Very Good
+Emmye Corry,Male,Services,"$109,030.00",Wellington,Very Good
+Addy Pimblett,Male,Product Management,"$66,460.00",Bellevue,Average
+Angela Bangley,Female,Training,"$50,810.00",Wellington,Not Rated
+Elbertine Hiscoe,Female,Training,"",Wellington,Good
+Baudoin Dummigan,Male,Legal,"$114,510.00",Los Angeles,Average
+Lissy McCoy,Female,Business Development,"$86,230.00",Wellington,Poor
+Ingunna Wainscoat,Male,Support,"$73,240.00",Los Angeles,Average
+Amii Elms,Female,Business Development,"$53,920.00",Los Angeles,Poor
+Ignacio Delion,Female,Engineering,"$113,690.00",Los Angeles,Average
+Colby Reuven,Male,Business Development,"$101,790.00",Bellevue,Average
+Maggee Stiggles,Female,Engineering,"$38,930.00",Wellington,Average
+Kelci Walkden,Male,Human Resources,"$57,090.00",Los Angeles,Very Poor
+Bogey Hitcham,Male,Product Management,"$106,170.00",Bellevue,Poor
+Pembroke Siflet,Female,Human Resources,"$59,550.00",Wellington,Average
+Adolph Hartin,Male,Product Management,"$89,960.00",Bellevue,Poor
+Gisela Wille,"",Support,"$58,850.00",Bellevue,Poor
+Joyce Leyband,Female,Product Management,"$68,200.00",Bellevue,Average
+Reube Sushams,Male,Marketing,"$90,130.00",Los Angeles,Good
+Mathian MacMeeking,Female,Services,"$45,060.00",Los Angeles,Good
+Antonino Forsdicke,Male,Product Management,"$66,370.00",Bellevue,Average
+Mick Spraberry,Female,Services,"$85,880.00",Wellington,Good
+Benita Gillice,Male,Accounting,"",Los Angeles,Poor
+Caresa Christer,Male,Support,"$59,260.00",Bellevue,Poor
+Letizia Hasselby,Male,Legal,"$61,790.00",Wellington,Average
+Luce Beentjes,Male,Training,"$48,180.00",Wellington,Good
+Sammy Gantlett,Female,Product Management,"$74,800.00",Bellevue,Very Poor
+Pooh Splevins,Female,Business Development,"$31,020.00",Bellevue,Average
+Aeriela Aickin,Male,Product Management,"$37,550.00",Wellington,Average
+Tabbatha Pickston,Male,Marketing,"$72,040.00",Wellington,Good
+Tawnya Tickel,Male,Support,"$118,840.00",Wellington,Not Rated
+Royal Nowakowska,Male,Human Resources,"$79,570.00",Los Angeles,Average
+Winny Millam,Female,Business Development,"$94,050.00",Bellevue,Not Rated
+Michael Sidry,Male,Product Management,"$81,260.00",Wellington,Average
+Nolan Tortis,Male,Support,"$36,710.00",Wellington,Average
+De witt Lottrington,Female,Sales,"$98,360.00",Wellington,Very Poor
+Baxter Brocks,Female,Human Resources,"$39,680.00",Wellington,Poor
+Joyce Esel,Male,Sales,"$101,390.00",Los Angeles,Good
+Van Tuxwell,Female,Business Development,"$80,700.00",Wellington,Good
+Fidela Artis,Female,Sales,"$78,020.00",Bellevue,Average
+Dov Thoresby,Male,Support,"$115,490.00",Wellington,Poor
+Aloise MacCathay,Male,NULL,"",Bellevue,Average
+Cathi Delgardo,Male,Product Management,"$111,910.00",Wellington,Good
+Doro Nolte,Female,Services,"$109,050.00",Los Angeles,Average
+Easter Pyke,Female,Training,"$95,680.00",Wellington,Average
+Noll Forbear,Male,Services,"$109,380.00",Los Angeles,Average
+Myer McCory,Male,Research and Development,"$69,710.00",Los Angeles,Average
+Doralyn Segar,Female,Support,"$30,000.00",Los Angeles,Average
+Clo Jimpson,Male,Legal,"$57,620.00",Bellevue,Very Poor
+Brose MacCorkell,Female,Human Resources,"$35,940.00",Bellevue,Poor
+Audry Yu,Female,Training,"$101,190.00",Wellington,Average
+Dolley Grayley,Female,Legal,"$48,980.00",Wellington,Very Good
+Meredith Rucklidge,Male,Legal,"$115,840.00",Bellevue,Not Rated
+Valida Merrigans,Male,Sales,"",Los Angeles,Very Poor
+Rory Ravenscroftt,Female,Accounting,"$45,450.00",Los Angeles,Very Good
+Verla Timmis,Male,Support,"$54,140.00",Wellington,Average
+Jo Benoi,Female,Human Resources,"$117,520.00",Los Angeles,Average
+Marquita Liquorish,Female,Legal,"",Los Angeles,Average
+Caty Janas,Male,Accounting,"$93,210.00",Bellevue,Poor
+Pennie Walmsley,Male,Support,"$104,470.00",Bellevue,Not Rated
+Virge Garfield,Male,Training,"$110,890.00",Wellington,Poor
+Rebecca Shillan,Male,Research and Development,"",Wellington,Good
+Myrilla Mercik,Female,Training,"$96,660.00",Los Angeles,Average
+Giacobo Donke,Male,Services,"$118,360.00",Los Angeles,Average
+Barbara-anne Kenchington,Female,Support,"$88,030.00",Wellington,Average
+Aida Bleacher,Male,Product Management,"$87,810.00",Wellington,Not Rated
+Cly Vizard,Male,Business Development,"$51,520.00",Wellington,Average
+Aleksandr Botha,Male,Sales,"$60,260.00",Wellington,Not Rated
+Evangelina Lergan,Male,Support,"$61,210.00",Los Angeles,Average
+Maritsa Marusic,Male,Research and Development,"$52,750.00",Los Angeles,Average
+Tamar MacGilfoyle,Male,Product Management,"$47,270.00",Los Angeles,Average
+Chancey Dyos,Male,Sales,"$118,060.00",Los Angeles,Good
+Isaak Rawne,Male,Marketing,"$37,360.00",Bellevue,Average
+Gideon Hehir,Female,Business Development,"$66,510.00",Los Angeles,Average
+Irena Trousdell,Female,Marketing,"$29,530.00",Los Angeles,Very Poor
+Gino Groome,Female,Research and Development,"$60,440.00",Bellevue,Very Good
+Lamond Douthwaite,Male,Engineering,"$90,530.00",Bellevue,Very Poor
+Ebonee Roxburgh,Male,Training,"$67,950.00",Los Angeles,Very Good
+Nathanial Brounfield,Male,Accounting,"$105,120.00",Los Angeles,Average
+Mallorie Waber,Male,Training,"$60,570.00",Bellevue,Good
+Ewart Laphorn,Female,Training,"$119,110.00",Los Angeles,Good
+Hilliary Roarty,Male,Services,"$104,770.00",Los Angeles,Poor
+Putnem Manchester,Male,Sales,"$70,360.00",Bellevue,Average
+Lanie Gatlin,Female,Support,"$45,110.00",Wellington,Not Rated
+Michel Jados,Male,Research and Development,"",Wellington,Very Poor
+Lezlie Philcott,Female,Research and Development,"",Bellevue,Not Rated
+Sharl Bendson,Female,Business Development,"$33,630.00",Wellington,Poor
+William Reeveley,Male,Training,"$53,870.00",Wellington,Good
+Granville Stetson,Female,Engineering,"$111,190.00",Bellevue,Average
+Mirna Etoile,Female,Legal,"$29,970.00",Los Angeles,Average
+Freddie Johnikin,Male,Support,"$64,960.00",Bellevue,Average
+Natalee Craiker,Male,Product Management,"$111,230.00",Wellington,Average
+Mariette Daymont,Female,Sales,"$99,530.00",Wellington,Average
+Aldrich Glenny,Male,Business Development,"$90,880.00",Wellington,Not Rated
+Lonny Caen,Female,Research and Development,"$35,980.00",Bellevue,Very Good
+Murial Ickovici,Female,Business Development,"$72,500.00",Los Angeles,Good
+Kath Bletsoe,Male,Marketing,"$65,700.00",Wellington,Very Poor
+Gayla Blackadder,Female,Services,"$109,170.00",Bellevue,Good
+Adela Dowsett,Male,Support,"$95,020.00",Bellevue,Average
+Addi Studdeard,Female,Product Management,"$72,500.00",Wellington,Poor
+Sharron Petegree,Female,Product Management,"$87,290.00",Los Angeles,Good
+Eleonore Airdrie,Female,Engineering,"$97,110.00",Wellington,Average
+Rhiamon Mollison,Female,Research and Development,"$59,430.00",Bellevue,Average
+Karon Oscroft,Male,Marketing,"$112,120.00",Bellevue,Average
+Edi Hofton,Male,Research and Development,"$28,160.00",Wellington,Not Rated
+Derk Bosson,Female,Legal,"$75,870.00",Bellevue,Average
+Lorrie Derycot,Female,Support,"$93,270.00",Bellevue,Average
+Hartwell Pratchett,Female,Training,"$42,730.00",Bellevue,Average
+Van Ruseworth,Female,Services,"$80,610.00",Wellington,Average
+Inge Creer,Female,Services,"$69,060.00",Bellevue,Very Poor
+Elwira Lyddiard,Male,Product Management,"$31,280.00",Wellington,Average
+Kincaid Hellicar,Male,Business Development,"$96,610.00",Los Angeles,Very Good
+Maximo Guirard,Female,Business Development,"$37,020.00",Los Angeles,Average
+Alta Kaszper,Male,Training,"$54,970.00",Bellevue,Average
+Lamar Blewitt,Male,Services,"$41,910.00",Bellevue,Poor
+Hector Isard,Male,Support,"$116,970.00",Wellington,Very Good
+Barbara-anne Kenchington,Female,Support,"$88,030.00",Los Angeles,Very Good
+Judi Cosgriff,Female,Human Resources,"$86,390.00",Wellington,Good
+Janean Gostage,Male,Services,"$81,150.00",Wellington,Not Rated
+Delphine Jewis,Female,Accounting,"$71,820.00",Los Angeles,Average
+Matias Cormack,Male,Research and Development,"$85,460.00",Los Angeles,Average
+Rogers Rosenthaler,Female,Business Development,"$91,190.00",Bellevue,Poor
+Clarine Shambrooke,"",Support,"$93,160.00",Bellevue,Average
+Thedrick Rogeon,Male,Marketing,"$110,950.00",Los Angeles,Poor
+Roanne Phizacklea,Female,Product Management,"$35,990.00",Wellington,Average
+Devinne Tuny,Male,Engineering,"$39,970.00",Los Angeles,Average
+Martelle Brise,Male,Training,"$79,520.00",Los Angeles,Average
+Dino Wooderson,Male,Legal,"$52,120.00",Wellington,Poor
+Effie Vasilov,Male,Support,"$60,010.00",Bellevue,Average
+Jermaine Steers,Female,Accounting,"$35,440.00",Wellington,Good
+Saunders Blumson,"",Legal,"$56,370.00",Wellington,Average
+Elliot Revelle,Male,Legal,"",Wellington,Average
+Mora Innett,Female,Legal,"$105,610.00",Bellevue,Poor
+Mahalia Larcher,Male,Accounting,"$113,280.00",Wellington,Good
+Dotty Strutley,Female,Engineering,"$41,980.00",Bellevue,Average
+Margy Elward,Male,Business Development,"$103,670.00",Bellevue,Average
+Danica Nayshe,Female,Services,"$89,690.00",Los Angeles,Good
+Shari Pickston,Male,Legal,"$96,320.00",Bellevue,Not Rated
+Merrilee Plenty,Female,Research and Development,"$87,620.00",Wellington,Good
+Romona Dimmne,Female,Research and Development,"$48,250.00",Los Angeles,Poor
+Lark Ironmonger,Male,Marketing,"$85,780.00",Wellington,Poor
+Aube Chadderton,Female,Human Resources,"",Bellevue,Average
+Caritta Searl,Male,Sales,"$54,010.00",Los Angeles,Poor
+Ernestus O'Hengerty,Female,Research and Development,"$31,020.00",Wellington,Average
+Camilla Castle,Female,Product Management,"$75,480.00",Los Angeles,Average
+Bette-ann Leafe,Male,Human Resources,"$93,500.00",Wellington,Average
+Aurelia Stanners,Female,Services,"$98,630.00",Bellevue,Good
+Shelby Buckland,Male,Services,"$76,390.00",Bellevue,Average
+Barr Faughny,Female,Marketing,"$68,010.00",Wellington,Average
+Farris Ditchfield,Male,Human Resources,"$58,030.00",Los Angeles,Good
+Gerald Caple,Male,Training,"$59,300.00",Los Angeles,Good
+Grier Kidsley,Female,Product Management,"$51,800.00",Wellington,Average
+Yves Pawlik,Male,Accounting,"$57,930.00",Wellington,Very Good
+Korney Bockings,Male,Engineering,"$40,530.00",Bellevue,Average
+Stephan Bussel,Male,Research and Development,"$48,290.00",Los Angeles,Average
+Caron Pleven,Female,Human Resources,"",Wellington,Average
+Jedd Moretto,Male,Support,"$63,720.00",Los Angeles,Very Good
+Verney Sloegrave,Male,Sales,"$84,500.00",Los Angeles,Average
+Nerita Mycock,Male,Accounting,"$67,430.00",Los Angeles,Average
+Mella Northam,Male,Support,"$109,120.00",Los Angeles,Not Rated
+Thedrick Bothwell,Male,Business Development,"$69,760.00",Los Angeles,Average
+Georgianne Archbutt,Female,Services,"$45,600.00",Los Angeles,Not Rated
+Thorvald Milliken,Female,Business Development,"$33,030.00",Bellevue,Good
+Aileen McCritchie,Male,Business Development,"$80,170.00",Bellevue,Average
+Drusy MacCombe,Male,Training,"$43,510.00",Los Angeles,Average
+Cathyleen Hurch,Female,Sales,"$49,390.00",Bellevue,Average
+Jannel Labb,Female,Research and Development,"$47,910.00",Los Angeles,Average
+Cheryl Mantz,Male,Sales,"$35,740.00",Los Angeles,Good
+Madlen Ashburner,Male,Support,"$42,240.00",Wellington,Very Good
+Colly Littledike,Female,Services,"$117,150.00",Bellevue,Average
+Karyn Creeghan,Male,Engineering,"$36,540.00",Los Angeles,Good
+Edgard Irving,"",Research and Development,"$87,290.00",Los Angeles,Good
+Cyril Medford,Female,Research and Development,"$85,720.00",Wellington,Average
+Kikelia Ellor,"",Engineering,"$34,620.00",Los Angeles,Very Good
+Dael Bugge,Male,Training,"$62,690.00",Bellevue,Poor
+Joyce Esel,Male,Sales,"$101,390.00",Los Angeles,Average
+Ferrell Skepper,Female,Research and Development,"$30,250.00",Los Angeles,Average
+Hannis January,Male,Business Development,"$29,530.00",Bellevue,Not Rated
+Pierson Measham,Male,Business Development,"$103,160.00",Los Angeles,Good
+Xylina Pargetter,Female,Legal,"$109,790.00",Los Angeles,Average
+Aretha Ettridge,Female,Accounting,"$33,760.00",Wellington,Average
+Joshia Farris,Female,Legal,"$36,740.00",Los Angeles,Average
+Cathi Delgardo,Male,Product Management,"$111,910.00",Wellington,Not Rated
+Mabel Orrow,Male,Product Management,"$31,240.00",Wellington,Poor
+Alexandros Rackley,Female,Legal,"$75,730.00",Los Angeles,Not Rated
+Mickie Dagwell,Male,Engineering,"$50,860.00",Wellington,Not Rated
+Mariette Daymont,Female,Sales,"$99,530.00",Bellevue,Not Rated
+Win Arthurs,Female,Support,"$43,200.00",Wellington,Very Good
+Marni Jull,Female,Services,"$84,200.00",Wellington,Good
+Sandy Cadden,Female,Legal,"$95,980.00",Bellevue,Average
+Wyn Treadger,Female,Business Development,"$69,190.00",Los Angeles,Good
+Marney O'Breen,Female,Product Management,"$65,920.00",Los Angeles,Good
+Westbrook Brandino,Male,Legal,"$113,620.00",Bellevue,Poor
+Sandi Labat,Male,Sales,"$60,140.00",Wellington,Average
+Leilah Yesinin,Female,Research and Development,"$92,450.00",Los Angeles,Not Rated
+Lincoln Greatex,Male,Human Resources,"$34,650.00",Wellington,Average
+Patti Dradey,Male,Services,"$84,740.00",Bellevue,Average
+Oona Donan,Female,Business Development,"$88,360.00",Bellevue,Average
+Burtie Moulden,Female,Services,"$116,220.00",Bellevue,Poor
+Mathian MacMeeking,Female,Services,"$45,060.00",Bellevue,Average
+Reg MacMichael,Male,Services,"$106,890.00",Los Angeles,Average
+Ignacius Losel,Male,Legal,"$28,480.00",Los Angeles,Poor
+Tonia Moules,Female,Business Development,"",Wellington,Good
+Joey Keedwell,Female,Marketing,"$107,440.00",Los Angeles,Poor
+Clo Jimpson,Male,Legal,"$57,620.00",Wellington,Good
+Bryant Scamp,Female,Human Resources,"$29,810.00",Los Angeles,Average
+Mick Titman,Male,Training,"$105,330.00",Bellevue,Poor
+Trudie Couch,Female,Legal,"$43,110.00",Bellevue,Average
+Cyndia Skedge,Male,Support,"$52,630.00",Wellington,Average
+Francoise Godbold,Male,Sales,"$46,350.00",Los Angeles,Average
+Staford Brood,Female,NULL,"$39,800.00",Los Angeles,Good
+Filmore Fitzhenry,Male,Human Resources,"$108,170.00",Los Angeles,Not Rated
+Berna Dubery,Male,Services,"$69,730.00",Los Angeles,Very Poor
+Gerrard Doorey,Male,Product Management,"$110,200.00",Wellington,Average
+Hiram Merkle,Male,Legal,"$116,090.00",Los Angeles,Not Rated
+Zebulon Allmen,"",Business Development,"$52,140.00",Wellington,Average
+Kingsley Hagard,Male,Engineering,"$32,810.00",Los Angeles,Average
+My Hanscome,Male,Sales,"$59,430.00",Bellevue,Average
+Eldredge MacClure,Male,Legal,"$46,990.00",Los Angeles,Average
+Pauletta Falkus,Male,Sales,"$33,560.00",Los Angeles,Average
+Deck McCallion,Male,Sales,"$33,890.00",Wellington,Average
+Miguel Woolner,Male,Training,"$51,740.00",Los Angeles,Poor
+Yolande O'Dare,Female,Accounting,"$51,650.00",Wellington,Good
+Kit Battlestone,Female,Research and Development,"$115,980.00",Wellington,Good
+Glennis Fussen,Female,Sales,"$58,370.00",Los Angeles,Good
+Rhiamon Mollison,Female,Research and Development,"$59,430.00",Wellington,Average
+Theresita Chasmer,Female,Product Management,"$106,670.00",Bellevue,Average
+Pippy Shepperd,Female,Accounting,"$44,850.00",Los Angeles,Very Good
+Petronella Marusik,Male,Accounting,"$75,600.00",Wellington,Average
+Andria Kimpton,Male,Product Management,"$69,120.00",Wellington,Average
+Jarad Barbrook,Female,Human Resources,"$31,200.00",Wellington,Very Poor
+Dulsea Folkes,Female,Services,"$42,160.00",Bellevue,Very Good
+Herschel Wareham,Male,Services,"$110,830.00",Los Angeles,Average
+Skip Morkham,Female,Marketing,"$83,180.00",Los Angeles,Average
+Merrilee Plenty,Female,Research and Development,"$87,620.00",Wellington,Very Good
+Dayle O'Luney,Female,Research and Development,"$46,750.00",Wellington,Good
+Gray Seamon,Female,Business Development,"$78,540.00",Los Angeles,Average
+Krysta Elacoate,Male,Human Resources,"$106,930.00",Wellington,Very Poor
+Abramo Labbez,Female,Research and Development,"$77,000.00",Bellevue,Average
+Faun Rickeard,Male,Product Management,"$74,920.00",Bellevue,Average
+Jamesy O'Ferris,Male,Accounting,"$36,550.00",Los Angeles,Average
+Fanchon Furney,Male,Accounting,"$95,950.00",Wellington,Average
+Pate Beardsley,Male,Services,"$85,880.00",Bellevue,Very Good
+Grady Crosgrove,"",Sales,"$77,910.00",Los Angeles,Average
+Darcy Brewitt,Male,Human Resources,"$116,670.00",Los Angeles,Average
+Foss Asquez,Male,Support,"$92,190.00",Los Angeles,Not Rated
+Gilda Richen,Female,Support,"$71,920.00",Wellington,Poor
+Antonino Forsdicke,Male,Product Management,"$66,370.00",Wellington,Average
+Jobie Basili,Female,Sales,"$39,340.00",Los Angeles,Good
+Everard Borer,Female,Marketing,"",Wellington,Average
+Anni Izzard,Male,Human Resources,"$103,490.00",Wellington,Good
+Bebe Pollicott,Female,Legal,"$87,740.00",Los Angeles,Average
+Julian Andrassy,Female,Marketing,"$113,980.00",Bellevue,Poor
+Shell O'Griffin,Female,Sales,"",Bellevue,Average
+Dionne Garrish,Female,Engineering,"$41,600.00",Wellington,Good
+Gilles Jaquet,Female,Accounting,"$76,300.00",Los Angeles,Good
+Alexis Gotfrey,Male,Engineering,"$114,470.00",Bellevue,Very Good
+Xavier Filipic,Female,Marketing,"$31,050.00",Los Angeles,Good
+Liane Bedburrow,Female,Training,"$76,620.00",Wellington,Average
+Meara Darrington,Male,Engineering,"$76,190.00",Wellington,Poor
+Genevra Friday,Female,Research and Development,"$50,450.00",Bellevue,Average
+Penni Patemore,Male,Services,"$29,330.00",Los Angeles,Average
+Yanaton Wooster,Male,Marketing,"$76,930.00",Wellington,Average
+Hedvige Stelfox,Female,Human Resources,"$33,800.00",Wellington,Average
+Tammy Backson,Female,Marketing,"$44,820.00",Wellington,Average
+Delinda Snozzwell,"",Engineering,"$67,010.00",Wellington,Good
+Inger Chapelhow,Female,Research and Development,"$84,310.00",Bellevue,Average
+Arty Duigan,Male,Legal,"$108,600.00",Wellington,Very Good
+Nani Brockley,Male,Product Management,"$47,000.00",Wellington,Good
+Curtice Advani,Male,Product Management,"$59,810.00",Bellevue,Average
+Leela Eckart,Male,Legal,"$90,340.00",Los Angeles,Average
+Krystal Lambswood,Female,Training,"$41,600.00",Los Angeles,Poor
+Cristal Demangeot,Female,Sales,"$72,350.00",Los Angeles,Poor
+Jori Ashleigh,Male,Legal,"$64,270.00",Wellington,Average
+Leslie Baruch,Female,Accounting,"$103,990.00",Los Angeles,Very Good
+Helene Bouts,Male,Sales,"$70,380.00",Bellevue,Good
+Eleni O'Quin,Male,Legal,"$89,020.00",Bellevue,Average
+Alic Bagg,Male,Legal,"$113,750.00",Los Angeles,Average
+Maible Azemar,Male,Accounting,"",Los Angeles,Average
+Abran Danielsky,Female,Engineering,"$32,720.00",Los Angeles,Average
+Halette Yesenev,Male,Services,"$61,920.00",Los Angeles,Average
+Cleveland Pottiphar,Female,Marketing,"$74,600.00",Bellevue,Very Good
+Osborn Pawle,Male,Training,"$38,030.00",Wellington,Average
+Chas Happel,Female,Services,"$30,940.00",Los Angeles,Very Poor
+Roth Bourget,Male,Services,"$28,870.00",Los Angeles,Average
+Maisie Shotboulte,Female,Marketing,"$71,210.00",Wellington,Very Good
+Felita Whitloe,Male,Training,"$63,450.00",Los Angeles,Good
+Cindi McDuffy,Female,Services,"$87,930.00",Wellington,Very Poor
+Murry Dryburgh,Male,Research and Development,"$69,070.00",Wellington,Average
+Dorise Labat,Male,Business Development,"$101,610.00",Los Angeles,Average
+Hephzibah Summerell,Female,Services,"$28,310.00",Wellington,Average
+Alyosha Riquet,Male,Legal,"$89,840.00",Wellington,Very Good
+Maximo Ungerecht,Male,Support,"$96,250.00",Bellevue,Average
+Lezlie Balmann,Male,Product Management,"$112,460.00",Los Angeles,Poor
+Benny Karolovsky,"",Human Resources,"$115,440.00",Wellington,Average
+Gretchen Callow,Female,Training,"$33,920.00",Los Angeles,Average
+Candace Hanlon,Male,Support,"$46,280.00",Bellevue,Average
+Oby Sorrel,Female,Support,"$58,940.00",Los Angeles,Average
+Cecilia Marshalleck,Female,Marketing,"$118,980.00",Wellington,Not Rated
+Antonetta Coggeshall,Male,Sales,"$96,750.00",Los Angeles,Average
+Purcell Le Pine,"",Legal,"$101,220.00",Los Angeles,Good
+Archibald Dyzart,Male,Product Management,"$63,020.00",Wellington,Average
+Lil Ibberson,Male,Business Development,"$75,920.00",Los Angeles,Good
+Karita Vasyanin,Male,Legal,"$93,080.00",Bellevue,Average
+Joaquin McVitty,Male,Sales,"$68,860.00",Bellevue,Good
+Collen Dunbleton,Male,Engineering,"$118,980.00",Wellington,Poor
+Alysa Wankling,"",Legal,"$106,460.00",Bellevue,Good
+Ardella Dyment,Female,Business Development,"$70,650.00",Los Angeles,Good
+Ryun Fasset,Male,NULL,"$101,120.00",Los Angeles,Very Good
+Rodina Drinan,Female,Sales,"$77,050.00",Wellington,Good
+Louise Lamming,Female,Sales,"$41,930.00",Wellington,Poor
+Marga Lorenzo,Female,Legal,"$89,360.00",Wellington,Good
+Alvie Keming,Female,Legal,"$37,840.00",Los Angeles,Poor
+Sheff Gerdts,Male,Business Development,"$89,160.00",Wellington,Average
+Josie Barnson,Female,Training,"$74,110.00",Los Angeles,Very Good
+Petey Probey,Male,Services,"$31,630.00",Los Angeles,Poor
+Shelbi Aldin,Female,Research and Development,"$40,910.00",Wellington,Poor
+Estell Kingsland,Male,Sales,"$32,190.00",Los Angeles,Average
+Lea Chaplin,Female,Human Resources,"$73,490.00",Los Angeles,Poor
+Onofredo Hassan,Male,Product Management,"$52,220.00",Los Angeles,Average
+Hyacinthie Braybrooke,Female,Support,"$68,900.00",Wellington,Average
+Agnes Collicott,Female,Sales,"$83,750.00",Wellington,Average
+Margarete Blasing,Male,Support,"$110,970.00",Los Angeles,Not Rated
+Patience Noot,Female,Business Development,"$49,520.00",Wellington,Average
+Charmane Heistermann,Female,Business Development,"$86,560.00",Los Angeles,Average
+Jamal Beagen,Female,Support,"$35,830.00",Los Angeles,Average
+Brigid Jeffrey,Female,Support,"$53,910.00",Los Angeles,Good
+Nelli Schoolfield,Female,Engineering,"$109,870.00",Los Angeles,Average
+Abigael Basire,Male,Engineering,"$61,620.00",Wellington,Average
+Anjanette Ferre,"",Human Resources,"$67,960.00",Wellington,Average
+Mackenzie Hannis,Female,Training,"$57,000.00",Wellington,Very Poor
+Ambros Murthwaite,Male,Sales,"$70,610.00",Bellevue,Average
+Lek Scamaden,Female,Training,"$51,860.00",Wellington,Good
+Jehu Rudeforth,Female,Engineering,"$60,130.00",Wellington,Average
+Bert Yaakov,Male,Research and Development,"$72,040.00",Los Angeles,Poor
+Bordy Yatman,Female,Product Management,"$108,450.00",Bellevue,Good
+Georgie Caress,Male,Marketing,"$58,260.00",Wellington,Average
+Mollie Hanway,Male,NULL,"$112,650.00",Bellevue,Average
+Krysta Elacoate,Male,Human Resources,"$106,930.00",Los Angeles,Average
+Jolynn Lumbley,"",Research and Development,"$70,020.00",Wellington,Average
+Gwendolyn Chrippes,Male,Engineering,"",Wellington,Good
+Blythe Clipston,Female,Human Resources,"$35,670.00",Los Angeles,Average
+Sisely Hatchman,Female,Sales,"",Los Angeles,Average
+Alicea Pudsall,Male,Accounting,"$67,630.00",Wellington,Average
+Karee Ruslinge,Female,Human Resources,"$82,300.00",Los Angeles,Not Rated
+Wilone O'Kielt,Female,Business Development,"$114,870.00",Bellevue,Not Rated
+Justino Chapiro,Male,Sales,"$71,030.00",Bellevue,Average
+Maritsa Marusic,Male,Research and Development,"$52,750.00",Wellington,Average
+Sisely Gatsby,Female,Support,"$85,670.00",Los Angeles,Average
+Shantee D'Antonio,Female,Product Management,"",Los Angeles,Good
+Blaire Ruckman,Male,Business Development,"$61,700.00",Los Angeles,Average
+William Coveny,Male,Legal,"$66,140.00",Wellington,Good
+Packston Joanic,Male,Marketing,"$51,860.00",Los Angeles,Good
+Joana Bartocci,Male,Human Resources,"$52,670.00",Wellington,Average
+Sile Whorton,Female,Legal,"$61,210.00",Los Angeles,Not Rated
+Billi Fellgate,Female,Business Development,"$68,980.00",Los Angeles,Average
+Franchot Crocken,Female,Accounting,"$29,610.00",Wellington,Average
+Cletus McGarahan,Female,Engineering,"$114,430.00",Bellevue,Good
+Callie Duckels,Male,Product Management,"$53,760.00",Wellington,Average
+Roselle Wandrach,Male,Sales,"$91,310.00",Wellington,Average
+Lishe Casemore,Male,Services,"$117,840.00",Los Angeles,Average
+Garey Bird,Female,Product Management,"$31,830.00",Bellevue,Average
+Toby Micklewright,Male,Legal,"$32,980.00",Bellevue,Not Rated
+Dell Molloy,Male,Engineering,"$47,360.00",Wellington,Poor
+Fidela Dowey,Female,Engineering,"$86,740.00",Bellevue,Very Good
+Emmanuel Westrey,Female,Support,"$87,400.00",Los Angeles,Average
+Abigael Basire,Male,Engineering,"$61,620.00",Bellevue,Poor
+Melodie Torresi,Female,Business Development,"$75,090.00",Bellevue,Average
+Dewie Stodart,Male,Accounting,"$78,020.00",Los Angeles,Average
+Fred Dudeney,Male,Services,"$88,690.00",Wellington,Very Good
+Giffer Berlin,Female,Research and Development,"$92,340.00",Los Angeles,Good
+Bealle Glentworth,Male,NULL,"$99,480.00",Wellington,Poor
+Van Tuxwell,Female,Business Development,"$80,700.00",Wellington,Poor
+Sarajane Scourge,Female,Business Development,"$58,830.00",Wellington,Poor
+Rose Shurrocks,Female,Research and Development,"$32,140.00",Los Angeles,Good
+Mata Fishley,Male,Accounting,"$102,520.00",Wellington,Poor
+Irvine Blenkin,Male,Human Resources,"$79,590.00",Wellington,Very Poor
+Wald Bountiff,Female,Support,"$28,970.00",Bellevue,Very Good
+Leonerd Jiru,Female,Marketing,"",Bellevue,Not Rated
+Hinda Label,Female,Human Resources,"$92,700.00",Los Angeles,Average
+Irwin Kirsche,Female,Accounting,"$36,150.00",Los Angeles,Poor
+Sile Whorton,Female,Legal,"$61,210.00",Wellington,Average
+Jill Shipsey,Male,Accounting,"$52,960.00",Bellevue,Average
+Nerissa Kavanagh,Male,Training,"$84,170.00",Bellevue,Not Rated
+Anabal Cooke,Female,Product Management,"$31,920.00",Los Angeles,Average
+Ava Whordley,Female,Product Management,"$104,210.00",Wellington,Very Good
+Laney Thowless,Male,Product Management,"",Los Angeles,Good
+Ansley Gounel,Female,Product Management,"$38,440.00",Wellington,Poor
+Cletus McGarahan,Female,Engineering,"$114,430.00",Los Angeles,Very Good
+Althea Bronger,Male,Product Management,"$104,340.00",Los Angeles,Poor
+Orlando Gorstidge,Male,Marketing,"$40,750.00",Bellevue,Very Poor
+Robbert Mandrier,Female,Training,"$98,020.00",Wellington,Very Good
+Twila Roantree,Female,Sales,"$96,620.00",Bellevue,Poor
+Archibald Filliskirk,Male,Research and Development,"$40,400.00",Wellington,Very Good
+Denni Wiggans,Male,Product Management,"$81,220.00",Bellevue,Poor
+Pyotr Lightewood,Male,Training,"$33,840.00",Bellevue,Not Rated
+Shari McNee,Male,Research and Development,"$75,880.00",Bellevue,Average
+Issiah Cradick,Male,Engineering,"$81,380.00",Bellevue,Not Rated
+Nollie Courteney,Male,Research and Development,"$71,490.00",Wellington,Not Rated
+Tadio Dowdle,Female,Product Management,"$91,930.00",Los Angeles,Average
+Ondrea Banfield,Female,Engineering,"$107,790.00",Los Angeles,Average
+Asia Jerson,Male,Services,"",Los Angeles,Very Good
+Cornie Arstall,Female,Product Management,"$69,970.00",Wellington,Average
+Jeane Blaszczak,Female,Engineering,"$44,300.00",Bellevue,Poor
+Hogan Iles,Female,Accounting,"$114,180.00",Bellevue,Very Good
+Saundra O'Connel,Male,Human Resources,"$85,330.00",Wellington,Average
+Malva Iacovacci,Female,NULL,"$65,130.00",Wellington,Average
+Rosaline Wenderott,Female,Sales,"$36,820.00",Wellington,Good
+Bobina Teale,Male,Marketing,"$116,890.00",Los Angeles,Average
+Ruby Cracie,Male,Research and Development,"$78,710.00",Los Angeles,Poor
+Sissy Muehle,Female,Accounting,"$86,470.00",Los Angeles,Average
+Lonny Caen,Female,Research and Development,"$35,980.00",Bellevue,Good
+Itch Tinklin,Female,Support,"$77,110.00",Wellington,Average
+Sibyl Dunkirk,Female,Product Management,"$86,570.00",Los Angeles,Very Poor
+Brodie Grimstead,Male,Business Development,"$117,850.00",Los Angeles,Good
+Amitie Mawson,Female,Marketing,"$116,500.00",Bellevue,Not Rated
+Dane Wudeland,Female,Accounting,"$80,030.00",Los Angeles,Poor
+Oby Sorrel,Female,Support,"$58,940.00",Los Angeles,Average
+Yvette Bett,Male,Human Resources,"$76,320.00",Bellevue,Good
+Ianthe Sayre,Male,Support,"$110,730.00",Wellington,Very Good
+Jacklyn Andrioletti,Female,Training,"$86,990.00",Wellington,Poor
+Eliza Hoggan,Female,Legal,"",Bellevue,Average
+Conchita Soden,Male,Marketing,"$74,410.00",Wellington,Good
+Reggie Taylerson,Male,Marketing,"$87,610.00",Bellevue,Good
+Leslie Cardoso,Female,Business Development,"$103,340.00",Wellington,Good
+Milton Lilie,Female,Business Development,"$46,470.00",Los Angeles,Average
+Aeriell Cuell,Male,Legal,"$108,290.00",Wellington,Very Poor
+Anne-corinne Daulby,Male,Engineering,"$78,640.00",Bellevue,Good
+Lisle Danahar,"",Sales,"$75,990.00",Los Angeles,Average
+Bryana Loyns,Male,Sales,"$55,280.00",Los Angeles,Average
+Anjela Spancock,"",Accounting,"$98,010.00",Bellevue,Average
+Daisie McNeice,Male,Human Resources,"$50,310.00",Los Angeles,Average
+Jillana Gabbitis,Male,Marketing,"$91,360.00",Los Angeles,Average
+Roddy Speechley,Male,Accounting,"$115,920.00",Wellington,Good
+Oran Buxcy,Female,Engineering,"$56,870.00",Bellevue,Poor
+Beverie Moffet,Female,Support,"$75,970.00",Wellington,Very Good
+Novelia Pyffe,Male,Accounting,"$52,270.00",Los Angeles,Good
+Dare Tully,Male,Business Development,"$39,780.00",Bellevue,Not Rated
+Lilyan Klimpt,Male,Services,"$58,960.00",Bellevue,Average
+Jo-anne Gobeau,Female,Training,"$37,900.00",Wellington,Good
+Sheff Gerdts,Male,Business Development,"$89,160.00",Bellevue,Good
+Florinda Crace,Female,Sales,"$45,510.00",Wellington,Good
+Dominic Ortler,Female,Product Management,"$66,610.00",Wellington,Average
+Cathrin Yanuk,Male,Sales,"$44,120.00",Bellevue,Very Poor
+Austine Littlewood,Female,Services,"$32,270.00",Wellington,Average
+Alford Gerardi,Female,Engineering,"$37,130.00",Bellevue,Not Rated
+Cullie Bourcq,Female,Sales,"$45,590.00",Wellington,Good
+Emanuel Beldan,Male,Accounting,"$94,070.00",Wellington,Average
+Danica Nayshe,Female,Services,"$89,690.00",Los Angeles,Not Rated
+Hildagard Reece,Female,Services,"$41,220.00",Bellevue,Average
+Kai Ryder,Female,Accounting,"$119,930.00",Bellevue,Average
+Alfred Peplay,Female,Human Resources,"$60,580.00",Los Angeles,Not Rated
+Jeannie Petracco,Female,Engineering,"$94,820.00",Wellington,Average
+Brad Gumb,Male,Accounting,"$38,830.00",Los Angeles,Good
+Bonnie Newland,Male,NULL,"$91,450.00",Wellington,Average
+Reinald Franken,Female,Engineering,"$28,870.00",Wellington,Very Good
+Carolyn Attack,Female,Marketing,"$70,760.00",Bellevue,Good
+Bogey Hitcham,Male,Product Management,"$106,170.00",Wellington,Good
+Naoma Cruse,Male,Research and Development,"$71,540.00",Los Angeles,Average
+Oates Dinan,Female,Research and Development,"$104,680.00",Bellevue,Average
+Daphne Francillo,Male,Training,"$63,370.00",Bellevue,Average
+Kissiah Maydway,Male,Accounting,"$106,460.00",Bellevue,Good
+Trix Lutsch,Male,Business Development,"$106,400.00",Bellevue,Average
+Carolin Fieldstone,Female,Marketing,"$36,920.00",Los Angeles,Average
+Dulsea Folkes,Female,Services,"$42,160.00",Wellington,Average
+Corabel Luberto,Female,Human Resources,"$57,820.00",Los Angeles,Average
+Nicola Kiely,Female,Business Development,"$93,740.00",Los Angeles,Average
+Rey Chartman,Female,Training,"$93,960.00",Los Angeles,Poor
+Israel Farndon,Male,Marketing,"$107,220.00",Bellevue,Average
+Felipe Parkman,Female,Training,"$90,150.00",Wellington,Very Good
+Margit Kunze,Male,Engineering,"$94,020.00",Wellington,Good
+Oliy Feeney,Female,Marketing,"$42,970.00",Bellevue,Good
+Sandie Anthonies,Male,Legal,"$33,410.00",Los Angeles,Average
+Anni Dinse,Male,Product Management,"$119,670.00",Bellevue,Average
+Gaultiero Have,Male,Accounting,"$115,380.00",Los Angeles,Average
+Corinna Griffiths,Male,Support,"$75,010.00",Los Angeles,Good
+Cherlyn Barter,Female,Accounting,"$104,120.00",Wellington,Good
+Shea Mix,Male,Research and Development,"$82,680.00",Bellevue,Very Poor
+Leonidas Cavaney,Male,Accounting,"$52,250.00",Los Angeles,Very Poor
+Tallie Chaikovski,Male,Sales,"$83,190.00",Bellevue,Average
+Andria Kimpton,Male,Product Management,"$69,120.00",Los Angeles,Average
+Rik Delete,Female,Training,"",Los Angeles,Good
+Bill Luffman,"",NULL,"$41,570.00",Wellington,Average
+Codie Gaunson,Male,Accounting,"$83,590.00",Wellington,Poor
+Kaine Padly,Male,Research and Development,"$107,700.00",Wellington,Very Good
+Freda Legan,Female,Sales,"$102,130.00",Los Angeles,Average
+Hiram Merkle,Male,Legal,"$116,090.00",Los Angeles,Average
+Christos Wintle,Male,Engineering,"$74,360.00",Bellevue,Good
+Magnum Locksley,Female,Services,"$42,310.00",Wellington,Not Rated
+Adrianne Gave,Male,Engineering,"$78,440.00",Bellevue,Poor
+Warner Carwithan,Female,Support,"$113,760.00",Los Angeles,Good
+Appolonia Snook,Female,Services,"$93,880.00",Los Angeles,Average
+Alikee Jecock,Female,Legal,"$85,000.00",Los Angeles,Poor
+Shay Chasney,Male,Human Resources,"$72,550.00",Bellevue,Average
+Trey Jurges,Female,Legal,"$72,360.00",Los Angeles,Poor
+Tracy Renad,Female,Accounting,"$114,890.00",Wellington,Average
+Sarajane Peachey,Female,Marketing,"$107,580.00",Wellington,Poor
+Bili Sizey,Male,Research and Development,"$36,040.00",Wellington,Average
+Clement Penhearow,Female,NULL,"$58,310.00",Los Angeles,Average
+Shaun Kyrkeman,Male,Product Management,"$35,010.00",Los Angeles,Average
+Leena Bruckshaw,Male,Research and Development,"$74,280.00",Bellevue,Average
+Benni Simounet,Male,Research and Development,"$115,790.00",Bellevue,Very Poor
+Kay Edling,Male,Support,"$38,330.00",Bellevue,Average
+Shayne Stegel,Male,Business Development,"$70,270.00",Wellington,Very Good
+Floyd Cowgill,Male,Support,"$37,060.00",Los Angeles,Average
+William Reeveley,Male,Training,"$53,870.00",Wellington,Good
+Claretta MacQuist,Male,Human Resources,"",Wellington,Average
+Inger Chapelhow,Female,Research and Development,"$84,310.00",Wellington,Good
+Brien Boise,Female,Research and Development,"$58,100.00",Los Angeles,Very Good
+Pancho De Ortega,Male,Support,"$99,780.00",Los Angeles,Very Good
+Edd MacKnockiter,Male,Accounting,"$119,020.00",Bellevue,Poor
+Hobie Stockbridge,Male,Engineering,"$92,940.00",Bellevue,Good
+Ludovika Plaice,Male,Training,"$59,670.00",Los Angeles,Not Rated
+Odessa Pusill,Female,NULL,"$41,000.00",Bellevue,Not Rated
+Caro Hainsworth,Male,Marketing,"$77,470.00",Los Angeles,Good
+Nicolis Winspire,Male,Engineering,"$45,650.00",Bellevue,Good
+Niko MacGille,Female,Engineering,"$88,430.00",Bellevue,Average
+Evanne Levens,Male,Human Resources,"$36,880.00",Los Angeles,Good
+Trix Lutsch,Male,Business Development,"$106,400.00",Wellington,Poor
+Michale Rolf,Male,Services,"$111,820.00",Bellevue,Very Good
+Cecilla Northen,Male,Human Resources,"$92,870.00",Wellington,Average
+Cyrillus Garci,Male,Business Development,"$100,360.00",Bellevue,Average
+Dayle O'Luney,Female,Research and Development,"$46,750.00",Bellevue,Average
+Gunar Cockshoot,Male,Business Development,"$48,950.00",Wellington,Good
+Silva Monte,Male,Sales,"$52,810.00",Wellington,Poor
+Hans Bucke,Male,Legal,"$78,560.00",Los Angeles,Very Poor
+Elia Cockton,Female,Support,"$75,280.00",Los Angeles,Average
+Freddy Linford,Female,Training,"$93,130.00",Los Angeles,Poor
+Gwenore Scotchmer,Female,Business Development,"$105,290.00",Los Angeles,Very Poor
+Maggie Ruberti,Male,Training,"$108,340.00",Los Angeles,Not Rated
+Desi Peniman,Female,Legal,"$31,090.00",Los Angeles,Average
+Allyce Hincham,Male,Business Development,"$101,420.00",Bellevue,Average
+Juanita Trembey,"",Business Development,"$54,780.00",Los Angeles,Very Good
+Lincoln Cord,Female,Support,"$63,560.00",Wellington,Very Good
+Kerwin Blakely,Male,Research and Development,"$68,480.00",Bellevue,Poor
+Granny Spencelayh,Male,Legal,"$99,460.00",Wellington,Average
+Collin Jagson,Male,Services,"$100,420.00",Wellington,Poor
+Monti Burdus,Female,Human Resources,"$39,650.00",Wellington,Average
+Konstantin Timblett,Female,Training,"$56,250.00",Wellington,Average
+Fax Scotland,Female,Marketing,"$57,640.00",Wellington,Average
+Isidora Guido,Male,Engineering,"$43,150.00",Wellington,Very Good
+Erv Havill,Female,Accounting,"$106,080.00",Wellington,Not Rated
+Yoshiko Tamblingson,Male,Sales,"$29,590.00",Los Angeles,Good
+Barri Teacy,Female,Accounting,"$86,240.00",Bellevue,Average
+Alisha Bloschke,"",Product Management,"$36,480.00",Wellington,Average
+Jerrilee Maginot,Male,Business Development,"",Los Angeles,Average
+Adi Seawright,Female,Marketing,"$48,590.00",Los Angeles,Very Poor
+Eward Astlett,Male,Engineering,"$41,670.00",Bellevue,Average
+Chauncey Schild,Female,Support,"$107,340.00",Bellevue,Very Good
+Larissa Ingledow,Male,Research and Development,"$62,280.00",Los Angeles,Not Rated
+Orton Livick,Male,Services,"$37,920.00",Wellington,Not Rated
+Jolynn Edkins,Female,Support,"",Los Angeles,Average
+Beverie Moffet,Female,Support,"$75,970.00",Los Angeles,Average
+Katey Cadany,Male,Services,"$92,010.00",Wellington,Very Poor
+Alida Welman,Male,Human Resources,"$69,860.00",Bellevue,Poor
+Nicole Blowfelde,Female,Training,"$59,560.00",Los Angeles,Very Good
+Kelley Rounds,Female,Engineering,"$114,810.00",Los Angeles,Average
+Felice McMurty,Female,Product Management,"$66,870.00",Wellington,Not Rated
+Layton Kierans,Male,Human Resources,"$113,790.00",Los Angeles,Very Poor
+Hedwiga Ingarfield,Female,Legal,"$38,250.00",Los Angeles,Average
+Frasquito Mosley,"",Support,"$48,090.00",Wellington,Not Rated
+Amandy Jope,Male,Accounting,"$99,630.00",Wellington,Average
+Tarrah Wordsworth,Female,Product Management,"$86,340.00",Wellington,Poor
+Fairfax Wallsam,"",Sales,"$88,590.00",Wellington,Average
+Chelsea Itzak,Male,Support,"$61,100.00",Los Angeles,Average
+Craggie Whistlecraft,Male,Product Management,"$71,240.00",Wellington,Average
+Faina Durand,Male,Sales,"$114,650.00",Los Angeles,Very Poor
+Joella Maevela,Female,Sales,"$76,210.00",Los Angeles,Good
+Virginia McConville,Female,Human Resources,"$76,900.00",Wellington,Very Good
+Candy Aindrais,Female,Business Development,"$116,590.00",Bellevue,Very Good
+Allene Gobbet,Female,Engineering,"$78,390.00",Wellington,Average
+Ruthanne Beadnell,Female,Accounting,"$103,610.00",Los Angeles,Poor
+Damien Netley,Male,Engineering,"$98,110.00",Wellington,Good
+Rasia Fryatt,Female,Human Resources,"$33,960.00",Bellevue,Not Rated
+Bev Lashley,Male,Business Development,"$112,110.00",Los Angeles,Not Rated
+Curtice Advani,Male,Product Management,"$59,810.00",Bellevue,Good
+Madge McCloughen,"",Training,"$91,310.00",Los Angeles,Average
+Frasier Straw,Male,Business Development,"$71,370.00",Bellevue,Average
+Dean Biggam,Female,Training,"$71,570.00",Wellington,Not Rated
+Anni Dinse,Male,Product Management,"$119,670.00",Bellevue,Not Rated
+Husein Augar,Female,Marketing,"$67,910.00",Los Angeles,Average
+Shaylyn Ransbury,Female,Support,"$100,370.00",Wellington,Average
+Christoph Stretton,Female,Business Development,"$90,240.00",Wellington,Poor
+Jordain Cyster,Female,Engineering,"$75,870.00",Los Angeles,Average
+Malory Biles,Female,Training,"$58,740.00",Los Angeles,Not Rated
+Adey Ryal,Female,Legal,"$32,500.00",Bellevue,Average
